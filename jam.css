@@ -3,18 +3,17 @@ font-style:oblique;}
 body{background: linear-gradient(to top right,#FA8072,#FF7F50,#FF69B4);} 
 .menu{list-style:none;
 margin:2;
-padding-left: 50px;
+padding-left: 30px;
 background:linear-gradient(to top right,left,#DDA0DD, #BA55D30;} 
 .left{background:#32CD32;
                 width: 360px;
                 display: inline-block}
 .right{background:#32CD32;
                 width: 360px;
-                display: inline-block;
-}
+                display: inline-block}
 
-  div1  
-  { text-align:center;
+div1  {
+ text-align:right;
   font-size: 15pt;
   font-family: Arial;
   vertical-align:super;
@@ -23,7 +22,3 @@ background:linear-gradient(to top right,left,#DDA0DD, #BA55D30;}
   padding:45px;
   text-align: left|right|center|justify;
 }
-} 
-   div4 
-   { font-size:25pt;
-
